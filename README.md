@@ -51,6 +51,5 @@ Shows cities with the highest number of orders. Useful for location-based market
 ## 📂 Overview
 
 - **Platform**: Microsoft Excel  
-- **Purpose**: Static yet informative sales reporting  
 - **Target Audience**: Business managers, sales analysts, and decision-makers  
 - **Focus Areas**: Orders, sales, profits, shipping, customer and regional performance
